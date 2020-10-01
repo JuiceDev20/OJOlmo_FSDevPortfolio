@@ -79,6 +79,7 @@
     <Content Include="Images\Research.png" />
     <Content Include="Images\Status_Tracker.png" />
     <Content Include="Images\Super_Dog.png" />
+    <Content Include="Images\Mobile2.png" />
     <Content Include="Scripts\boxlayout.js" />
     <Content Include="Content\font-awesome.min.css" />
     <Content Include="Content\jquery.animatedheadline.css" />
