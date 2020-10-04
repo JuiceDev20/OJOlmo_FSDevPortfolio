@@ -67,19 +67,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\Challenge-1.png" />
+    <Content Include="Images\Challenge-2.png" />
+    <Content Include="Images\Challenge-3.png" />
+    <Content Include="Images\Challenge-4.png" />
+    <Content Include="Images\Challenge-5.png" />
+    <Content Include="Images\Challenge-6.png" />
     <Content Include="Fonts\fontawesome-webfont.svg" />
-    <Content Include="Images\App_Prog_I.png" />
-    <Content Include="Images\Blog_Idea.png" />
     <Content Include="Images\Budget.png" />
     <Content Include="Images\close-button.png" />
     <Content Include="Images\Finance.png" />
     <Content Include="Images\Fizz-Buzz.png" />
-    <Content Include="Images\Notary.png" />
     <Content Include="Images\OJDevPortfolio1.png" />
-    <Content Include="Images\Research.png" />
     <Content Include="Images\Status_Tracker.png" />
-    <Content Include="Images\Super_Dog.png" />
     <Content Include="Images\Mobile2.png" />
+    <Content Include="Images\Project-a.png" />
+    <Content Include="Images\Project-e.png" />
+    <Content Include="Images\Project-f.png" />
+    <Content Include="Images\Project-b.png" />
+    <Content Include="Images\Project-c.png" />
     <Content Include="Scripts\boxlayout.js" />
     <Content Include="Content\font-awesome.min.css" />
     <Content Include="Content\jquery.animatedheadline.css" />
