@@ -67,6 +67,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\Finance4.png" />
+    <Content Include="Images\DragonBlog-ss.png" />
     <Content Include="Images\Challenge-1.png" />
     <Content Include="Images\Challenge-2.png" />
     <Content Include="Images\Challenge-3.png" />
@@ -78,6 +80,7 @@
     <Content Include="Images\close-button.png" />
     <Content Include="Images\Finance.png" />
     <Content Include="Images\Fizz-Buzz.png" />
+    <Content Include="Images\Notary.png" />
     <Content Include="Images\OJDevPortfolio1.png" />
     <Content Include="Images\Status_Tracker.png" />
     <Content Include="Images\Mobile2.png" />
