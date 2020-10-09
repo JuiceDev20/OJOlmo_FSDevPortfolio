@@ -90,6 +90,7 @@
     <Content Include="Images\Project-f.png" />
     <Content Include="Images\Project-b.png" />
     <Content Include="Images\Project-c.png" />
+    <Content Include="README.txt" />
     <Content Include="Scripts\boxlayout.js" />
     <Content Include="Content\font-awesome.min.css" />
     <Content Include="Content\jquery.animatedheadline.css" />
