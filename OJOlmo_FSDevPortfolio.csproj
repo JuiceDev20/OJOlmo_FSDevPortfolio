@@ -70,8 +70,6 @@
     <Content Include="favicon.ico" />
     <Content Include="Images\Finance4.png" />
     <Content Include="Images\DragonBlog-ss.png" />
-    <Content Include="Images\Challenge-1.png" />
-    <Content Include="Images\Challenge-2.png" />
     <Content Include="Images\Challenge-3.png" />
     <Content Include="Images\Challenge-4.png" />
     <Content Include="Images\Challenge-5.png" />
@@ -80,9 +78,11 @@
     <Content Include="Images\Budget.png" />
     <Content Include="Images\close-button.png" />
     <Content Include="Images\Finance.png" />
-    <Content Include="Images\Fizz-Buzz.png" />
+    <Content Include="Images\FizzBuzz_Challenge.png" />
+    <Content Include="Images\Math_Cha2.png" />
     <Content Include="Images\Notary.png" />
     <Content Include="Images\OJDevPortfolio1.png" />
+    <Content Include="Images\Palindrome_Challenge.png" />
     <Content Include="Images\Status_Tracker.png" />
     <Content Include="Images\Mobile2.png" />
     <Content Include="Images\Project-a.png" />
@@ -90,6 +90,8 @@
     <Content Include="Images\Project-f.png" />
     <Content Include="Images\Project-b.png" />
     <Content Include="Images\Project-c.png" />
+    <Content Include="Images\Sum_of_All_Fears_Challenge.png" />
+    <Content Include="Images\Sunset_Hills_Challenge.png" />
     <Content Include="README.txt" />
     <Content Include="Scripts\boxlayout.js" />
     <Content Include="Content\font-awesome.min.css" />
