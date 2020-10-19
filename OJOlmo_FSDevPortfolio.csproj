@@ -90,6 +90,7 @@
     <Content Include="Images\Project-b.png" />
     <Content Include="Images\Project-c.png" />
     <Content Include="Images\Math_Cha2.png" />
+    <Content Include="Images\Sum-Fears-tile.png" />
     <Content Include="README.txt" />
     <Content Include="Scripts\boxlayout.js" />
     <Content Include="Content\font-awesome.min.css" />
@@ -120,7 +121,6 @@
     <Content Include="Scripts\shBrushJScript.js" />
     <Content Include="Scripts\shBrushXml.js" />
     <Content Include="Scripts\shCore.js" />
-    <Content Include="Images\Sum-Fears2.png" />
     <Content Include="Images\Sunset-Hills.png" />
     <Content Include="Web.config" />
   </ItemGroup>
