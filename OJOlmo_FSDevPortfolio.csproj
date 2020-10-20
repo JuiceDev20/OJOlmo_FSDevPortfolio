@@ -70,7 +70,6 @@
     <Content Include="favicon.ico" />
     <Content Include="Images\Finance4.png" />
     <Content Include="Images\DragonBlog-ss.png" />
-    <Content Include="Images\Challenge-3.png" />
     <Content Include="Images\Challenge-4.png" />
     <Content Include="Images\Challenge-5.png" />
     <Content Include="Images\Challenge-6.png" />
@@ -79,6 +78,7 @@
     <Content Include="Images\close-button.png" />
     <Content Include="Images\Finance.png" />
     <Content Include="Images\FizzBuzz_Challenge.png" />
+    <Content Include="Images\LoanCalcApp-tile.png" />
     <Content Include="Images\Notary.png" />
     <Content Include="Images\OJDevPortfolio1.png" />
     <Content Include="Images\Palindrome_Challenge.png" />
@@ -90,7 +90,6 @@
     <Content Include="Images\Project-b.png" />
     <Content Include="Images\Project-c.png" />
     <Content Include="Images\Math_Cha2.png" />
-    <Content Include="Images\Sum-Fears-tile.png" />
     <Content Include="README.txt" />
     <Content Include="Scripts\boxlayout.js" />
     <Content Include="Content\font-awesome.min.css" />
@@ -122,6 +121,7 @@
     <Content Include="Scripts\shBrushXml.js" />
     <Content Include="Scripts\shCore.js" />
     <Content Include="Images\Sunset-Hills.png" />
+    <Content Include="Images\SumFears-tile3.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
